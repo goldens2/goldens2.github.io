@@ -5,8 +5,8 @@
  * Não coloque senhas, tokens ou informações privadas neste arquivo público.
  */
 window.PORTFOLIO_CONFIG = {
-  github: "",
-  linkedin: "",
+  github: "https://github.com/goldens2",
+  linkedin: "www.linkedin.com/in/gabriel-meira-40003a309",
   email: "",
-  curriculum: ""
+  curriculum: "http://lattes.cnpq.br/4585516075463298"
 };
